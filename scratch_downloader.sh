@@ -1,5 +1,6 @@
 #!/bin/bash
 
+npm install @turbowarp/sbdl
 user=tiiima
 limit=40
 offset=0
